@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\prisma\\HealthCare-Server\\logs\\winston\\errors\\.fde9b05700316838675a06efd5c12b5267a1002a-audit.json",
+    "files": [
+        {
+            "date": 1749630196068,
+            "name": "G:\\prisma\\HealthCare-Server\\logs\\winston\\errors\\phu-2025-11-06-09-error.log",
+            "hash": "0f0fd4207b8902e95dc10c46aa66ae8d94e3a8b6e15cb3006389cd0d20697ba2"
+        },
+        {
+            "date": 1749656426317,
+            "name": "G:\\prisma\\HealthCare-Server\\logs\\winston\\errors\\phu-2025-11-06-16-error.log",
+            "hash": "84b2baaed49f3179b1f309843a348af8108476a5f373974a02116c2bbe0c9d06"
+        },
+        {
+            "date": 1749664506995,
+            "name": "G:\\prisma\\HealthCare-Server\\logs\\winston\\errors\\phu-2025-11-06-18-error.log",
+            "hash": "79ee74e3c2bbe827c100f3dedb410f73f1c735a374e32f3f3f0be4c46310cb3c"
+        },
+        {
+            "date": 1749665096311,
+            "name": "G:\\prisma\\HealthCare-Server\\logs\\winston\\errors\\phu-2025-11-06-19-error.log",
+            "hash": "e39be5464f326b074e0ee2bb716d7d726982785abba741dd08aca60a56ebc2b0"
+        },
+        {
+            "date": 1749678356909,
+            "name": "G:\\prisma\\HealthCare-Server\\logs\\winston\\errors\\phu-2025-11-06-22-error.log",
+            "hash": "0944c40609c4c5c6414cd072b71fd2d51951638a70c9354cf28963fba1f15a6e"
+        }
+    ],
+    "hashType": "sha256"
+}

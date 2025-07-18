@@ -1,0 +1,30 @@
+Wed Jun 11 2025 9:24:1 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Database `healthcareDB` does not exist on the database server at `localhost:5432`.
+Wed Jun 11 2025 9:25:1 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Database `healthcareDB` does not exist on the database server at `localhost:5432`.
+Wed Jun 11 2025 9:26:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Database `healthcareDB` does not exist on the database server at `localhost:5432`.
+Wed Jun 11 2025 9:27:1 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Database `healthcareDB` does not exist on the database server at `localhost:5432`.
+Wed Jun 11 2025 9:28:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Database `healthcareDB` does not exist on the database server at `localhost:5432`.
+Wed Jun 11 2025 9:29:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Database `healthcareDB` does not exist on the database server at `localhost:5432`.

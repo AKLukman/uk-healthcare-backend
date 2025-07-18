@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\NextJs\\Healthcare\\HealthCare-Server\\logs\\winston\\errors\\.baba341afa5ca963c872c6ab9fc997232313512c-audit.json",
+    "files": [
+        {
+            "date": 1751651281140,
+            "name": "G:\\NextJs\\Healthcare\\HealthCare-Server\\logs\\winston\\errors\\phu-2025-04-07-18-error.log",
+            "hash": "0c1d203f0fab7d5ddf904183ccefb378e0aca844138f7cc432f59c6b545cfdab"
+        },
+        {
+            "date": 1752219616237,
+            "name": "G:\\NextJs\\Healthcare\\HealthCare-Server\\logs\\winston\\errors\\phu-2025-11-07-08-error.log",
+            "hash": "3a3d28361d9052775d52e6a07ce501a3c3351f37a9b76974f005d88b4b8e544a"
+        },
+        {
+            "date": 1752485713896,
+            "name": "G:\\NextJs\\Healthcare\\HealthCare-Server\\logs\\winston\\errors\\phu-2025-14-07-10-error.log",
+            "hash": "b3a18dd0cb3dac7d189e6cbe4c7e3ef0f0bdd59f669823a155c8668b7f3c1a0d"
+        },
+        {
+            "date": 1752664055403,
+            "name": "G:\\NextJs\\Healthcare\\HealthCare-Server\\logs\\winston\\errors\\phu-2025-16-07-12-error.log",
+            "hash": "931fd178e63c7dc2b37c29a55bec4100e41a0c23468c760f0f6eaa5f009697ea"
+        },
+        {
+            "date": 1752735032840,
+            "name": "G:\\NextJs\\Healthcare\\HealthCare-Server\\logs\\winston\\errors\\phu-2025-17-07-07-error.log",
+            "hash": "7481a52390d3fcb111cf0b53091291b7379c61c92b73d08e95da421f589ceb13"
+        }
+    ],
+    "hashType": "sha256"
+}
