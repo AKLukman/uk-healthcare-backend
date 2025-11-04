@@ -62,7 +62,7 @@ Please follow the instructions carefully to maintain a consistent and efficient 
 - **Database:** PostgresSQL  
 - **Authentication:** JWT (JSON Web Token)  
 - **Payment Integration:** SSL Commerz 
-- **Notifications:** Nodemailer / Twilio  
+- **Notifications:** Nodemailer  
 - **Version Control:** Git & GitHub  
 
 ---
