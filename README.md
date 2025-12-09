@@ -71,7 +71,7 @@ Please follow the instructions carefully to maintain a consistent and efficient 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/health-care-server.git
+   git clone https://github.com/AKLukman/uk-healthcare-backend.git
    cd health-care-server
    npm install
    npm run dev
